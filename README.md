@@ -5,8 +5,6 @@ The memory layer for AI agents and apps.
 
 Keepsake is dedicated memory infrastructure for AI. It gives stateless large language models (LLMs) the ability to store, update, and recall information across separate chat sessions. Say it once, and Claude, ChatGPT, and Codex all know it, while every key stays in your hands.
 
-Website · X · Telegram · GitHub
-
 The problem
 
 Your AI forgets you. Every new chat starts from zero. You repeat yourself, re-explain, and start again.
@@ -58,7 +56,6 @@ The website is a single static page. Open index.html in your browser, or serve t
 
 bash
 python3 -m http.server 8000
-# then open http://localhost:8000
 The $KEEP token
 
 $KEEP is a planned token to power the Keepsake network. It is coming soon on Robinhood. The contract address (CA) will be announced on our website and official social media accounts.
